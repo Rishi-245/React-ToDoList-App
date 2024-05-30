@@ -38,6 +38,10 @@ To start the development server, run:
 ```sh
 npm start
 ```
+or 
+```sh
+npm run dev
+```
 This will start the application on http://localhost:3000.
 
 ## Usage
